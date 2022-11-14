@@ -25,6 +25,7 @@
     "euskadi31.json-pretty-printer",
     "richie5um2.vscode-statusbar-json-path",
     "redhat.vscode-yaml",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "streetsidesoftware.code-spell-checker"
   ]
 }

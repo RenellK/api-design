@@ -9,11 +9,12 @@
 - Plantuml, perfect for data modelling.
 - VS liveshare-pack, when you're keen to collaborate in real time.
 - Fetch-client, for you testing needs.
+
 ### Formatiing
 - Indent-rainbow, rainbow-bracket: ...because no one enjoys squinting to quickly check all indents and brackets are were they should be.
 - JSON pretty printer formatter
 - VSCode-statusbar-json-path
 - VSCode-yaml
 - Markdown-all-in-one
-
+- Code-spell-checker
 **Enjoy!**
