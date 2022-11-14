@@ -1,6 +1,6 @@
 {
   "name": "api-design",
-  "displayName": "api-design",
+  "displayName": "API Design",
   "description": "An extension pack optimized for API design with VS Code.",
   "version": "0.0.1",
   "engines": {
@@ -8,22 +8,23 @@
   },
   "publisher": "RenellKisten",
   "repository": "https://github.com/RenellK/api-design.git",
+  "icon": "https://icons8.com/icon/BfSDSLmsM5XE/api",
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
     "alefragnani.project-manager",
-    "oderwat.indent-rainbow",
-    "tal7aouy.rainbow-bracket",
-    "euskadi31.json-pretty-printer",
-    "richie5um2.vscode-statusbar-json-path",
-    "yzhang.markdown-all-in-one",
     "arjun.swagger-viewer",
-    "redhat.vscode-yaml",
     "stoplight.spectral",
     "ryu1kn.partial-diff",
     "jebbs.plantuml",
     "ms-vsliveshare.vsliveshare-pack",
-    "ganesanchandran.fetch-client"
+    "ganesanchandran.fetch-client",
+    "oderwat.indent-rainbow",
+    "tal7aouy.rainbow-bracket",
+    "euskadi31.json-pretty-printer",
+    "richie5um2.vscode-statusbar-json-path",
+    "redhat.vscode-yaml",
+    "yzhang.markdown-all-in-one"
   ]
 }
