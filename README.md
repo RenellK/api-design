@@ -3,7 +3,7 @@
 ## Extension Pack Summary
 
 - Project-manager: Perfect for easily switching between projects.
-- swagger-viewer, for API design and documentation.
+- Swagger-viewer, for API design and documentation.
 - Spectral by Spotlight, an open API linter.
 - Partial-diff, to quickly see changes between API version.
 - Plantuml, perfect for data modelling.
@@ -12,8 +12,8 @@
 ### Formatiing
 - Indent-rainbow, rainbow-bracket: ...because no one enjoys squinting to quickly check all indents and brackets are were they should be.
 - JSON pretty printer formatter
-- vscode-statusbar-json-path
-- vscode-yaml
-- markdown-all-in-one
+- VSCode-statusbar-json-path
+- VSCode-yaml
+- Markdown-all-in-one
 
 **Enjoy!**
