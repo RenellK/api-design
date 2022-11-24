@@ -9,9 +9,7 @@
 - Plantuml, perfect for data modelling.
 - VS liveshare-pack, when you're keen to collaborate in real time.
 - Fetch-client, for you testing needs.
-
-### Visualizer
-- JSON Crack
+- JSON Crack, visualizer.
   
 ### Formatting
 - Indent-rainbow, rainbow-bracket: ...because no one enjoys squinting to quickly check all indents and brackets are were they should be.
